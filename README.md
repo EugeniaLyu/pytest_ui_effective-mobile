@@ -4,7 +4,6 @@
 
 ### Шаги
 1. Склонировать проект `git clone https://github.com/EugeniaLyu/pytest_ui_effective-mobile.git`
-   pytest_ui_api_template.git'
 2. Установить зависимости
 3. Запустить тесты 'pytest'
 
@@ -19,7 +18,7 @@
 - ./pages - описание страниц
 
 ### Библиотеки (!)
-- pyp install pytest
+- pip install pytest
 - pip install selenium
 - pip install webdriver-manager
 
